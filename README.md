@@ -1,2 +1,3 @@
-# Phonepe_uploadingtoSQL
-Cloning the data and uploading to mysql from csv
+Phonepe-Data-visualization-(2018-2022)
+Cloning the data using git clone command into my pc
+
